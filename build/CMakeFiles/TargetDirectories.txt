@@ -1,0 +1,5 @@
+C:/PROJECT/NStR/build/CMakeFiles/NeverSawTheRain.dir
+C:/PROJECT/NStR/build/CMakeFiles/ALL_BUILD.dir
+C:/PROJECT/NStR/build/CMakeFiles/ZERO_CHECK.dir
+C:/PROJECT/NStR/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/PROJECT/NStR/build/external/glfw/src/CMakeFiles/glfw.dir
